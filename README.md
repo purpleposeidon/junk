@@ -1,4 +1,4 @@
-#!/bin/bash
+
 
 . ./literate_executable_readme.sh <<"."
 # This is the project.
